@@ -20,7 +20,7 @@ Run the commands in seperate terminal
 g++ server.cpp -o server -lsodium
 g++ client.cpp -o client -lsodium
 ```
-Run the server first to open the listener, then fire the client (in their respective terminl only)
+Run the server first to open the listener, then fire the client (in their respective terminal only)
 
 ```bash
 ./server
